@@ -7,4 +7,4 @@ function addTask() {
   li.innerHTML = `${taskText} <button class="delete-btn" onclick="this.parentElement.remove()">Delete</button>`;
   document.getElementById('taskList').appendChild(li);
   input.value = '';
-}
+}// Manahil - JS functionality updated
