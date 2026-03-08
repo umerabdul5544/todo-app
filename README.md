@@ -6,7 +6,7 @@
 A simple To-Do List web application built with HTML, CSS, and JavaScript.
 
 ## Team Members
-- Umer Abdul (Project Manager / Developer)
+- mueed,Manahil,Esha (Project Manager / Developer)
 
 ## Technologies Used
 - HTML
@@ -20,7 +20,7 @@ A simple To-Do List web application built with HTML, CSS, and JavaScript.
 - Delete existing tasks
 
 ## Jira Project
-- Project: MUEED
+- Project: todo-app
 - Issues: MUEED-1 to MUEED-6
 
 ## GitHub Repository
